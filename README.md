@@ -1,1 +1,1 @@
-# A problem solved using the path finging algortithms(DFS, BFS, ID, A*). A* and ID need fixes.
+# Seminar for the course Artificial Inteligence for path finding using the algortithms(DFS, BFS, ID, A*). A* and ID need fixes.
